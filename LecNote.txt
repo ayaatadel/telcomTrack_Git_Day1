@@ -32,3 +32,5 @@ git commit --amend==> append commit message on last commit message
 =====================> default editor vs code==>
 git config --global core.editor "code --wait"
 
+=================================================>
+remove last change ==> working area ==> git checkout fileName
