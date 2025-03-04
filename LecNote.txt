@@ -34,3 +34,10 @@ git config --global core.editor "code --wait"
 
 =================================================>
 remove last change ==> working area ==> git checkout fileName
+
+
+==================================> GitHub
+
+==> repo (repository)==> DB==> Serve (github)(snapshot)
+
+===> .gitignore===> files , folders name that we want to upload on system
