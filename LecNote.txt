@@ -47,3 +47,19 @@ remove last change ==> working area ==> git checkout fileName
 https://www.markdownguide.org/cheat-sheet/
 
 file ==> description , notes ,
+
+
+
+
+
+=================> link between remote repo and local repo
+
+git remote add origin link_of_Repo
+git push origin master
+
+
+================================>
+uplode modifications 
+git add .
+git commit -m "message"
+git push origin master
