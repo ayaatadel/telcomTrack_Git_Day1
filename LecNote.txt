@@ -26,3 +26,4 @@ git reset fileName         <============undo change (ctrl+z)
 show all commits ==> git log
 show all commits ==> git log --oneline
 =====================*** Commit ==> append==================
+git commit --amend==> append commit message on last commit message
