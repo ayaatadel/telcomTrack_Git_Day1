@@ -18,3 +18,11 @@ untracked files
 ==============================> If file added to staging area==>  to                               //    add message
 =============================> git commit -a -m "message"=======>
 =============================> git commit -am "message"==========>
+
+git reset fileName         <============undo change (ctrl+z)
+
+
+============******************************* ==================
+show all commits ==> git log
+show all commits ==> git log --oneline
+=====================*** Commit ==> append==================
