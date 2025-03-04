@@ -2,3 +2,4 @@ book.pdf
 images/*.txt
 images/*.pdf
 images/*.png
+.env
