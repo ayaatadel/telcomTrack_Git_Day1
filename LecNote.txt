@@ -59,7 +59,16 @@ git push origin master
 
 
 ================================>
-uplode modifications 
+uplode modifications  second time
 git add .
 git commit -m "message"
+git push origin master
+
+
+=====================> upload for first time
+
+git init    ==> local repo
+git add file / . / --all
+git commit -m "message"
+git remote add origin (variable==> link of repo) Repo_link
 git push origin master
