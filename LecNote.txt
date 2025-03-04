@@ -1,0 +1,20 @@
+.git ==> BD ==> changes ==> snapshot ==> all changes
+=======================================================
+file1 file2   file3  ==> PC==> Working area ===========> DB(.git , local Repo)
+
+
+
+working areaa         staging area(wating area)      localRepo(DB)
+untracked files       
+==================> git add fileName
+==================> git add fileName fileName
+===================> git add .
+===================> git add --all
+===================> git add *
+
+
+                        ================> git commit -m "message"
+
+==============================> If file added to staging area==>  to                               //    add message
+=============================> git commit -a -m "message"=======>
+=============================> git commit -am "message"==========>
