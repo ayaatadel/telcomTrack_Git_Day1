@@ -3,3 +3,4 @@ images/*.txt
 images/*.pdf
 images/*.png
 .env
+test
