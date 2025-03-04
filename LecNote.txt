@@ -1,0 +1,74 @@
+.git ==> BD ==> changes ==> snapshot ==> all changes
+=======================================================
+file1 file2   file3  ==> PC==> Working area ===========> DB(.git , local Repo)
+
+
+
+working areaa         staging area(wating area)      localRepo(DB)
+untracked files       
+==================> git add fileName
+==================> git add fileName fileName
+===================> git add .
+===================> git add --all
+===================> git add *
+
+
+                        ================> git commit -m "message"
+
+==============================> If file added to staging area==>  to                               //    add message
+=============================> git commit -a -m "message"=======>
+=============================> git commit -am "message"==========>
+
+git reset fileName         <============undo change (ctrl+z)
+
+
+============******************************* ==================
+show all commits ==> git log
+show all commits ==> git log --oneline
+=====================*** Commit ==> append==================
+git commit --amend==> append commit message on last commit message
+
+
+=====================> default editor vs code==>
+git config --global core.editor "code --wait"
+
+=================================================>
+remove last change ==> working area ==> git checkout fileName
+
+
+==================================> GitHub
+
+==> repo (repository)==> DB==> Serve (github)(snapshot)
+
+===> .gitignore===> files , folders name that we want to upload on system
+
+
+===========>README.md file  ==> markdown language==> text
+https://www.markdownguide.org/cheat-sheet/
+
+file ==> description , notes ,
+
+
+
+
+
+=================> link between remote repo and local repo
+
+git remote add origin link_of_Repo
+git push origin master
+
+
+================================>
+uplode modifications  second time
+git add .
+git commit -m "message"
+git push origin master
+
+
+=====================> upload for first time
+
+git init    ==> local repo
+git add file / . / --all
+git commit -m "message"
+git remote add origin (variable==> link of repo) Repo_link
+git push origin master
