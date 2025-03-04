@@ -41,3 +41,9 @@ remove last change ==> working area ==> git checkout fileName
 ==> repo (repository)==> DB==> Serve (github)(snapshot)
 
 ===> .gitignore===> files , folders name that we want to upload on system
+
+
+===========>README.md file  ==> markdown language==> text
+https://www.markdownguide.org/cheat-sheet/
+
+file ==> description , notes ,
