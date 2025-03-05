@@ -1,16 +1,11 @@
 Track Telcom Names: 
 1- sara yousrei alsoyefeai
 2- omar tarek
-<<<<<<< HEAD
 3- Mohamed Hosny
--kareem kamel
-=======
--kareem kamel
-<<<<<<< adham-alaa
-3- Mourad Emad Mourad
-4-toni emad
-5-Adham Alaa
-6-shrouq 
-=======
->>>>>>> master
->>>>>>> 82383a9c0acccccdbe5d19cc53ba09babc827389
+4-kareem kamel
+5-adham-alaa
+6- Mourad Emad Mourad
+7-toni emad
+8-mahmoud ibrahim ellaban
+9-shrouq 
+
