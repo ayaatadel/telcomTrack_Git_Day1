@@ -72,3 +72,14 @@ git add file / . / --all
 git commit -m "message"
 git remote add origin (variable==> link of repo) Repo_link
 git push origin master
+
+
+==================> copy from repo ==> clone
+git clone link_of_Repo
+=============================
+github pages ==> deployment project
+          -1 - index.html
+          2- repo public
+===============================
+add all modification from remote repo to local 
+git pull origin master
